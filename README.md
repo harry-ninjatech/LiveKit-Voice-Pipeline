@@ -101,7 +101,8 @@ Follow these steps to set up and run the project locally:
 4. **Test the System**:
    - Use the Flask server’s web interface (if `index.html` is implemented) to manually test text trimming.
    - Verify the agent trims responses appropriately in real-time voice interactions.
-
+5. **Record a Demo**:
+   [Demo video](https://drive.google.com/file/d/1S0yPOcDHUMouXWfFHUBMthUu_EYJWY-e/view?usp=sharing)   
 
 
 ---
